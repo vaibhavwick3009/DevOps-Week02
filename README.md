@@ -6,3 +6,6 @@ This repository demonstrates Git and GitHub workflow including:
 - Merging
 - Pull Requests
 - Merge Conflict Resolution
+## Feature Dashboard
+
+Created dashboard module.
