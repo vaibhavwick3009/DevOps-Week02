@@ -1,11 +1,9 @@
 \# DevOps Week 02
 
-This repository demonstrates Git and GitHub workflow including:
+# DevOps Week02
 
-- Branching
-- Merging
-- Pull Requests
-- Merge Conflict Resolution
 ## Feature Login
-
 Created login module.
+
+## Feature Dashboard
+Created dashboard module.
